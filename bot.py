@@ -9,8 +9,8 @@ from PyPDF2 import PdfWriter
 
 # ==== SETUP ====
 API_ID = 26582127  # <<<--- Apna API_ID yaha daale (my.telegram.org se)
-API_HASH = "your_real_api_hash"  # <<<--- Apna API_HASH daale (my.telegram.org se)
-BOT_TOKEN = "d5f45e4553c8201b95d4032abee85486"
+API_HASH = "d5f45e4553c8201b95d4032abee85486"  # <<<--- Apna API_HASH daale (my.telegram.org se)
+BOT_TOKEN = "8489119024:AAEHTivjIaozGbF3PgJwIa2r3j85-qxQemQ"
 MAX_SIZE_MB = 45    # Telegram 50MB se thoda kam
 MIN_DPI = 60
 
